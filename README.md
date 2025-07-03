@@ -5,7 +5,7 @@ Full Stack Web Developer | DevOps
 -----------------------------------
 
 I am a skilled MERN stack developer with expertise in MongoDB, Express.js, React.js, and Node.js. I create dynamic, responsive web applications with a strong focus on seamless integration between front-end and back-end. Proficient in HTML, CSS, and JavaScript, I build user-friendly interfaces and scalable server-side applications. I have experience in developing e-commerce platforms, social media apps, and project management tools. With a keen eye for detail and a passion for continuous learning, I deliver high-quality code and thrive in collaborative environments. Let’s connect to bring your ideas to life with the MERN stack!
-* 🌍  I’m currently working on <strong>MERN Stack<strong/>
+* 🌍  I’m currently working on <strong>MERN Stack | DevOps<strong/>
 * ✉️  You can contact me at [bambhaniyahitesh7@gmail.com](mailto:bambhaniyahitesh7@gmail.com)
 * 🧠  Currently, I am learning Docker
 
